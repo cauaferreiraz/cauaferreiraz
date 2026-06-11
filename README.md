@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cauaferreiraz)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cauaferreiraz&theme=dark&hide_border=false)]
