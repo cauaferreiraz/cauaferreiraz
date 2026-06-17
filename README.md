@@ -14,7 +14,8 @@
 <div style="display: inline_block"><br/>
     <p>
         Atualmente estou cursando Ciência da Computação na UNIFOR (Universidade de Fortaleza)<br/>
-        Tenho experiência com desenvolvimento backend e frontend, E ja tive contato com diferentes linguagens de programação e tecnologias web.<br/>
+        Tenho experiência com desenvolvimento backend e frontend.<br/>
+        Ja tive contato com diferentes linguagens de programação e tecnologias web.<br/>
         Gosto de construir sistemas completos, e aprender novas tecnologias.
     </p>
 </div>
