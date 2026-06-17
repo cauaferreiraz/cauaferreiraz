@@ -10,21 +10,12 @@
    <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-## Sobre minha formação:
+## Sobre mim:
 <div style="display: inline_block"><br/>
     <p>
-        Atualmente estou cursando <strong>Ciência da Computação</strong> na <strong>UNIFOR (Universidade de Fortaleza)</strong>.<br/>
-        Tenho experiência com desenvolvimento backend e frontend, trabalhando com diferentes linguagens de programação e tecnologias web.<br/>
-        Gosto de construir sistemas, aprender novas tecnologias e evoluir minhas habilidades como desenvolvedor.
-    </p>
-</div>
-
-## Perspectivas futuras:
-<div style="display: inline_block"><br/>
-    <p>
-        Estou focado em me tornar um <strong>Desenvolvedor Fullstack</strong>, capaz de construir soluções completas de ponta a ponta.<br/>
-        No momento, estou buscando oportunidades para crescer profissionalmente e aplicar meus conhecimentos em projetos reais.<br/>
-        Estou aberto a oportunidades onde eu possa contribuir, aprender e evoluir como desenvolvedor.
+        Atualmente estou cursando Ciência da Computação na UNIFOR (Universidade de Fortaleza)<br/>
+        Tenho experiência com desenvolvimento backend e frontend, E ja tive contato com diferentes linguagens de programação e tecnologias web.<br/>
+        Gosto de construir sistemas completos, e aprender novas tecnologias.
     </p>
 </div>
 
@@ -35,4 +26,5 @@
     </a>
 </div>
 
+## 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cauaferreiraz&theme=dark&hide_border=true)
