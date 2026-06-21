@@ -9,6 +9,7 @@
    <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
    <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
    <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img align="center" alt="React" src="https://img.shields.io/badge/React-2599ED?style=for-the-badge&logo=react&logoColor=white"/>
    <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-7f2dbd?style=for-the-badge&logo=angular&logoColor=white"/>
