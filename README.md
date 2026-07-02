@@ -21,5 +21,3 @@
 
 ## GitHub:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cauaferreiraz&theme=transparent&hide_border=false)
-
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=cauaferreiraz&theme=transparent&hide_border=fatselse&include_all_commits=true&count_private=true&layout=compact)
